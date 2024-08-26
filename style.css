@@ -1,0 +1,44 @@
+li{
+    color:red
+}
+
+::placeholder{
+    color:blue;
+    background-color: aquamarine;
+    font-size:15px;
+}
+
+.id1{
+    color:red;
+}
+
+form{
+    text-decoration: underline;
+}
+
+p{
+    text-transform: none;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    margin:25px;
+    padding: 25px;
+}
+
+label{
+    margin: 50px;
+} 
+#box1{
+  background-color:red;
+    display:inline;
+}
+#box2{
+   background-color:yellow;;
+    display:inline;
+}
+#box3{
+    background-color:green;
+    display:inline;
+}
